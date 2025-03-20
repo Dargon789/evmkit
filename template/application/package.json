@@ -20,7 +20,7 @@
     "@thirdweb-dev/chains": "^0.1.15",
     "@thirdweb-dev/react": "^3",
     "@thirdweb-dev/sdk": "^3",
-    "@thirdweb-dev/wallets": "^0.2.22",
+    "@thirdweb-dev/wallets": "^2.4.4",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
     "ethers": "5.7.2",
