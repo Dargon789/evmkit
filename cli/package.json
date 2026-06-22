@@ -34,7 +34,7 @@
     "detect-package-manager": "^2.0.1",
     "got": "11.8.5",
     "rimraf": "^3.0.2",
-    "tar": "^6.1.11",
+    "tar": "^7.4.3",
     "tslog": "^3.3.3",
     "validate-npm-package-name": "^4.0.0"
   },
